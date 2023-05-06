@@ -1,0 +1,12 @@
+{
+  "name": "pf1PathOfWar",
+  "title": "PF1 Path of War Compendium",
+  "description": "Sharing DSP's Path of War for the Foundry PF1 system",
+  "authors": [
+    {
+      "name": "Deius_Shrab"
+    }
+  ],
+  "version": "1",
+  "minimumCoreVersion": "0.8.8"
+}
