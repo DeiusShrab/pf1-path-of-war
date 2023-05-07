@@ -1,5 +1,5 @@
 class PF1PathOfWar {
-	static ID = 'pf1PathOfWar';
+	static ID = 'pf1-path-of-war';
 }
 
 Hooks.on('setup', () =>{

@@ -1,5 +1,5 @@
 {
-  "name": "pf1PathOfWar",
+  "name": "pf1-path-of-war",
   "title": "PF1 Path of War Compendium",
   "description": "Sharing DSP's Path of War for the Foundry PF1 system",
   "authors": [
@@ -10,6 +10,6 @@
   "version": "1",
   "minimumCoreVersion": "0.8.8",
   "scripts": [
-    "scripts/pf1PathOfWar.js"
+    "scripts/pf1-path-of-war.js"
   ]
 }

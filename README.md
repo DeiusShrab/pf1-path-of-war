@@ -1,4 +1,4 @@
-# PF1-Path-Of-War-Compendium
+# PF1 Path of War Compendium
 This module aims to incorporate Dreamscarred Press' excellent Path of War content into the PF1 system for Foundry VTT.
 All items will appear in the Compendium.
 This module is based off the PF1 Ultimate Psionics Compendium module by Ironxxx, found here:
