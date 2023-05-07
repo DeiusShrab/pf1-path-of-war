@@ -7,7 +7,7 @@ https://github.com/Ironxxx/pf1ultimatepsionics
 NOTE: Maneuvers are set up as Spells because they're literally just Martial Spells.
 Don't forget you need to activate the Spells tab under (Sheet) Settings for any martial disciple.
 
-Manifest https://raw.githubusercontent.com/DeiusShrab/pf1PathOfWar/main/module.json
+Manifest: https://raw.githubusercontent.com/DeiusShrab/pf1PathOfWar/master/module.json
 
 Legal Note from Path of War and Path of War Expanded:
 Based on the original roleplaying game rules designed by Gary Gygax and Dave Arneson and inspired by the third edition of the game designed by Monte Cook, Jonathan Tweet, Skip Williams, Richard Baker, and Peter Adkison.
