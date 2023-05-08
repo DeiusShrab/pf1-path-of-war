@@ -7,9 +7,36 @@
       "name": "ComradeDoose"
     }
   ],
-  "version": "1",
+  "version": "0.1.1",
   "minimumCoreVersion": "0.8.8",
   "scripts": [
     "scripts/pf1-path-of-war.js"
+  ],
+  "systems": ["pf1"],
+  "packs":[
+    {
+      "name": "path-of-war-maneuvers",
+      "label": "Path of War Maneuvers",
+      "system": "pf1",
+      "path": "packs/path-of-war-maneuvers.db",
+      "entity": "Item",
+      "module": "pf1-path-of-war"
+    },
+    {
+      "name": "path-of-war-class-features",
+      "label": "Path of War Class Features",
+      "system": "pf1",
+      "path": "packs/path-of-war-class-features.db",
+      "entity": "Item",
+      "module": "pf1-path-of-war"
+    },
+    {
+      "name": "path-of-war-classes",
+      "label": "Path of War Classes",
+      "system": "pf1",
+      "path": "packs/path-of-war-classes.db",
+      "entity": "Item",
+      "module": "pf1-path-of-war"
+    }
   ]
 }
